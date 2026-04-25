@@ -13,7 +13,7 @@
 
 ## Play
 
-- **Live**: https://tntgames.xyz
+- **Live**: https://chamchamcham.vercel.app
 - **Studio**: TNT Games
 - **Repository**: https://github.com/Gojaehyeon/chamchamcham
 
